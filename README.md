@@ -1,8 +1,7 @@
 # Animated-Conversational-Agent
 
-## Sujet PPE : Dispositif pour l’interaction avec un
-humain virtuel. Application `a chatGPT
-Gireg Desmeulles (desmeulles@enib.fr), Elisabetta Bevacqua
+## Sujet PPE : Dispositif pour l’interaction avec un humain virtuel. Application à chatGPT
+#### Gireg Desmeulles (desmeulles@enib.fr), Elisabetta Bevacqua
 janvier 2023
 
 Dans le cadre de travaux de recherche menés au CERV, nous avons souvent
