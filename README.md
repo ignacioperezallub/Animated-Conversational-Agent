@@ -1,6 +1,6 @@
 # Animated-Conversational-Agent
 
-##Sujet PPE : Dispositif pour l’interaction avec un
+## Sujet PPE : Dispositif pour l’interaction avec un
 humain virtuel. Application `a chatGPT
 Gireg Desmeulles (desmeulles@enib.fr), Elisabetta Bevacqua
 janvier 2023
