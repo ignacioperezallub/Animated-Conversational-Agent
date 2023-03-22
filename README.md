@@ -15,11 +15,17 @@ du projet existent déjà. Réalisation des scripts en python pour communiquer a
 
 Ce projet comporte donc des tâches matérielles et logicielles :
 • Choix et installation des périphériques.
+
 • Mise en œuvre l’agent virtuel Unity3D
+
 • Installation du systéme de communication entre composant logiciel
+
 • Mise en œuvre d’une reconnaissance vocale
+
 • Communication avec Chat GPT
+
 • Mise en œuvre de synthèse vocale
+
 • Finalisation de la démonstration.
 
 Ce projet est plutôt orienté informatique. Il s’adaptera aux compétences des étudiants. Il faudrait tout de même qu’au moins un des membres du projet connaisse la programmation orientée objet. Si le travail avance bien, vous pourrez mettre en œuvre d’autres fonctionnalités (par exemple tracking de l’utilisateur avec un kinect). Le projet est ouvert et toutes les bonnes idées qui enrichissent la démonstration seront bonnes à tester.
