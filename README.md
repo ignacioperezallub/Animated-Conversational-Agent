@@ -14,6 +14,7 @@ sur les ACA. Pour ce projet, nous nous fixons l’objectif de discuter avec un A
 du projet existent déjà. Réalisation des scripts en python pour communiquer avec chatGPT ou SpeechToText de Google.
 
 Ce projet comporte donc des tâches matérielles et logicielles :
+
 • Choix et installation des périphériques.
 
 • Mise en œuvre l’agent virtuel Unity3D
