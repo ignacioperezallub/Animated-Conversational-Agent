@@ -5,7 +5,7 @@ import speech_recognition as sr
 
 # Set up speech recognition API client
 recognizer = sr.Recognizer()
-recognizer.energy
+#recognizer.energy_threshold
 
 # check if input is from microphone or audio file
 input_type = input("Enter 'mic' to record from microphone or 'file' to record from audio file: ")
